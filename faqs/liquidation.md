@@ -28,8 +28,6 @@ This is the lowest unit price the staked collateral can reach before the CDP bec
 
 This is a fee that is added to the total outstanding DAI debt when a Liquidation occurs, which is subtracted from a CDP's collateral holdings.
 
-Proceeds from penalty fees are transferred to the PETH pool. This increases the ratio of WETH that users receive when they remove their collateral from a CDP. This fee inflates the value of the collateral pool during periods when there are a lot of Liquidations, for example, due to a high level of instability in the market.
-
 ## What happens during a Liquidation?
 
 Liquidation occurs when a Keeper closes a CDP and sends it to the Liquidity Providing Contract \(LPC\), which in turn, offers the CDPs assets for sale on the [Dai Dashboard](https://dai.makerdao.com). Once the debt obligations have been met, the unsold PETH collateral is returned to the CDP owner.
