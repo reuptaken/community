@@ -18,7 +18,7 @@ A decentralized digital economy needs stability in order to function. The Dai st
 
 **Decentralized exchanges**: Decentralized exchanges are frequently unable to provide fiat off-ramps. Dai allows its users to trade their assets for a low volatility currency that tracks the value of the USD.
 
-**Exchange pairs**: Crypto-to-crypto trading can be a complicated proposition. It is difficult to track earnings when both sides of a trading pair are rising and falling in value. Creating low-volatility pairings with DAI allows for greater price predictability.
+**Exchange pairs**: Crypto-to-crypto trading can be a complicated proposition. It is difficult to track earnings when both sides of a trading pair are rising and falling in value. Creating pairings with DAI allows for greater price predictability.
 
 **Financial markets**: Dai can also be useful as stable and reliable collateral for use in custom derivative smart contracts, or when creating leverage.
 
